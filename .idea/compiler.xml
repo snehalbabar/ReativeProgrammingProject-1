@@ -9,6 +9,7 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.20/18bcea7d5df4d49227b4a0743a536208ce4825bb/lombok-1.18.20.jar" />
         </processorPath>
         <module name="reactive-spring-webflux.movies-review-service.main" />
+        <module name="reactive-spring-webflux.movies-info-service.main" />
         <module name="reactive-spring-webflux.movies-service.main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
@@ -20,6 +21,6 @@
         <module name="reactive-spring-webflux.reactive-programming-using-reactor.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>
